@@ -14,6 +14,7 @@
 					<div class="socials flex justify-center mt-2">
 						<a class="rounded-full text-gray-600 border-gray-600 border-2 text-center mx-1 hover:text-red-600 hover:border-red-600" href="https://www.facebook.com/kisbee/" target="_blank"><i class="fa fa-facebook"></i></a>
 						<a class="rounded-full text-gray-600 border-gray-600 border-2 text-center mx-1 hover:text-red-600 hover:border-red-600" href="https://www.linkedin.com/in/barnabas-kiss-4a2635a6" target="_blank"><i class="fa fa-linkedin"></i></a>					
+						<a class="rounded-full text-gray-600 border-gray-600 border-2 text-center mx-1 hover:text-red-600 hover:border-red-600" href="https://github.com/radfuse" target="_blank"><i class="fa fa-github"></i></a>					
 					</div>
 				</div>
 			</div>
@@ -31,19 +32,20 @@
 						<h2 class="font-thin text-2xl">Full-stack Web Developer</h2>
 					</div>
 
-					<p class="mb-5 px-6">
-						I have learned programming as a hobby years ago. Now it is my passion and profession.
-					</p>
-
 					<div class="pb-2 px-3">
 						<div class="md:flex">
 							<div class="w-full md:w-1/2 text-justify px-3 mb-6 md:mb-0">
 								As a full-stack web developer I have encountered many forms of problems, challenges and ideas that I had to put into practice.
 								I have contributed to a variety of projects, from small websites to complex systems and mobile applications.
-								I am capable of working well in a team, but I also enjoy being on my own.
+								In addition to working well in a team, I am capable to lead one as well, but I also enjoy being on my own as well.
 							</div>
 							<div class="w-full md:w-1/2 text-justify px-3">
-								In my free time, I enjoy developing my skills, staying up to date and experimenting with new technologies.
+								<div class="mb-6 md:mb-2">
+									For me, looking at the big picture is key, because it helps me be proactive and have a passion for my role in a project.
+								</div>
+								<div>
+									In my free time, I enjoy developing my skills, staying up to date and experimenting with new technologies.
+								</div>
 							</div>
 						</div>
 					</div>

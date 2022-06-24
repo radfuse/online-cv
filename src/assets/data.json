@@ -15,7 +15,8 @@
 		{"name": "REST API", "stars": 4},
 		{"name": "TypeScript", "stars": 3},
 		{"name": "Node.js", "stars": 2},
-		{"name": "React", "stars": 1},
+		{"name": "React", "stars": 2},
+		{"name": "Python", "stars": 2},
 		{"name": "HTML Canvas", "stars": 3},
 		{"name": "Angular", "stars": 2},
 		{"name": "Vue", "stars": 3},
@@ -30,6 +31,7 @@
 		{"name": "Tailwind", "stars": 3},
 		{"name": "PWA", "stars": 2},
 		{"name": "SSO", "stars": 2},
+		{"name": "Symfony", "stars": 2},
 		{"name": "Laravel Framework", "stars": 2}
 	],
 	"tools": [
